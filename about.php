@@ -1,28 +1,33 @@
 <?php include 'includes/header.php'; ?>
 
-<section class="page-banner py-5">
-    <div class="container text-center">
-        <h1 class="fw-bold">About Evergreen University</h1>
-        <p class="text-muted mb-0">A legacy of scholarship, innovation, and community impact.</p>
+<section class="inner-hero section-space">
+    <div class="container">
+        <div class="glass-card p-4 p-lg-5 text-center reveal">
+            <span class="eyebrow">About Evergreen University</span>
+            <h1 class="display-5 fw-bold">A Legacy of Excellence. A Future of Possibility.</h1>
+            <p class="lead text-soft mb-0">Since 1958, Evergreen has empowered generations of scholars, innovators, and changemakers.</p>
+        </div>
     </div>
 </section>
 
-<section class="py-5">
+<section class="section-space pt-0">
     <div class="container">
-        <div class="row g-4 align-items-center">
-            <div class="col-lg-6">
-                <h2 class="h3 mb-3">Our Mission</h2>
-                <p>At Evergreen University, our mission is to cultivate critical thinkers, ethical leaders, and lifelong learners. We blend rigorous academics with experiential learning to prepare students for meaningful global careers.</p>
-                <p>We are committed to fostering an inclusive and collaborative environment where innovation thrives and every student can reach their full potential.</p>
+        <div class="row g-4 align-items-stretch">
+            <div class="col-lg-7 reveal">
+                <div class="glass-card p-4 p-lg-5 h-100">
+                    <h2>Our Mission</h2>
+                    <p>We cultivate intellectual curiosity, ethical leadership, and global citizenship through rigorous academics and experiential learning.</p>
+                    <p class="mb-0">Our students graduate ready to solve complex challenges and create lasting impact in their communities and beyond.</p>
+                </div>
             </div>
-            <div class="col-lg-6">
-                <div class="content-card p-4">
-                    <h3 class="h5">Core Values</h3>
-                    <ul class="mb-0">
-                        <li>Academic Integrity and Excellence</li>
-                        <li>Diversity, Equity, and Inclusion</li>
-                        <li>Innovation through Research</li>
-                        <li>Social Responsibility</li>
+            <div class="col-lg-5 reveal delay-1">
+                <div class="glass-card p-4 p-lg-5 h-100">
+                    <h3 class="mb-3">Core Values</h3>
+                    <ul class="value-list mb-0">
+                        <li>Academic Excellence</li>
+                        <li>Integrity & Inclusion</li>
+                        <li>Research & Innovation</li>
+                        <li>Service to Society</li>
                     </ul>
                 </div>
             </div>
@@ -30,25 +35,25 @@
     </div>
 </section>
 
-<section class="py-5 bg-light">
+<section class="section-space pt-0">
     <div class="container">
         <div class="row g-4">
-            <div class="col-md-4">
-                <div class="content-card h-100 p-4">
-                    <h3 class="h5">History</h3>
-                    <p class="mb-0">Founded in 1958, Evergreen University has grown from a small college into a nationally recognized institution for higher education and impactful research.</p>
+            <div class="col-md-4 reveal">
+                <div class="glass-card p-4 h-100">
+                    <h3>History</h3>
+                    <p class="mb-0">From a small regional college to a globally connected university, Evergreen has continuously evolved to meet the future.</p>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="content-card h-100 p-4">
-                    <h3 class="h5">Campus Life</h3>
-                    <p class="mb-0">Our vibrant campus offers clubs, sports, cultural events, and student-led initiatives that create a rich and memorable university experience.</p>
+            <div class="col-md-4 reveal delay-1">
+                <div class="glass-card p-4 h-100">
+                    <h3>Campus Life</h3>
+                    <p class="mb-0">A vibrant community with student organizations, athletics, arts, and leadership opportunities that enrich every journey.</p>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="content-card h-100 p-4">
-                    <h3 class="h5">Global Reach</h3>
-                    <p class="mb-0">With international partnerships and exchange programs, students gain global perspectives and opportunities beyond the classroom.</p>
+            <div class="col-md-4 reveal delay-2">
+                <div class="glass-card p-4 h-100">
+                    <h3>Global Outlook</h3>
+                    <p class="mb-0">International exchanges and strategic partnerships provide immersive learning and worldwide career pathways.</p>
                 </div>
             </div>
         </div>
